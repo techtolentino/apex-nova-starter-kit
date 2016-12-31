@@ -1,4 +1,4 @@
-# apex-nova-starter-kit
+# Apex Nova
 
 Apex Nova is a basic JavaScript dev environment. Built on Node and Express, Apex Nova leverages ES6 by transpiling through Babel.
 
