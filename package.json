@@ -4,8 +4,8 @@
   "description": "Javascript Development Starter Kit",
   "main": "index.js",
   "scripts": {
-    "prestart": "node lib/init.js",
-    "serve": "node lib/app.js",
+    "prestart": "babel-node lib/init.js",
+    "serve": "babel-node lib/app.js",
     "start": "npm-run-all --parallel security-check serve",
     "security-check": "nsp check",
     "localtunnel": "lt --port 3000",
