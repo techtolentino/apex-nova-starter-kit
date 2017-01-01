@@ -4,6 +4,7 @@
   "description": "Javascript Development Starter Kit",
   "main": "index.js",
   "scripts": {
+    "lint": "esw webpack.config.* src lib --color",
     "prestart": "babel-node lib/init.js",
     "serve": "babel-node lib/app.js",
     "start": "npm-run-all --parallel security-check serve",
