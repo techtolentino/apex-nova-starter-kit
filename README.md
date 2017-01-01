@@ -1,4 +1,5 @@
-# Eight
+# Eight <img src="assets/img/eight-logo.png" width="32"/>
+
 
 Eight is a basic JavaScript dev environment. Built on Node and Express, Eight leverages ES6 by transpiling through Babel and also utilizes Webpack for bundling.
 
