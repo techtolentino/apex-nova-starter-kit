@@ -11,7 +11,8 @@
     "start": "npm-run-all --parallel security-check serve lint:watch",
     "security-check": "nsp check",
     "localtunnel": "lt --port 3000",
-    "share": "npm-run-all --parallel serve localtunnel"
+    "share": "npm-run-all --parallel serve localtunnel",
+    "test": "mocha --reporter spec lib/testConfig.js 'src/**/*_spec.js'"
   },
   "repository": {
     "type": "git",
