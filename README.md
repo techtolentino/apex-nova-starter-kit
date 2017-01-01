@@ -1,6 +1,6 @@
-# Apex Nova
+# Eight
 
-Apex Nova is a basic JavaScript dev environment. Built on Node and Express, Apex Nova leverages ES6 by transpiling through Babel.
+Eight is a basic JavaScript dev environment. Built on Node and Express, Eight leverages ES6 by transpiling through Babel and also utilizes Webpack for bundling.
 
 #### Getting Started
 - clone or download this repo

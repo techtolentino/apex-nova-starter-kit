@@ -1,5 +1,5 @@
 {
-  "name": "apex-nova-starter-kit",
+  "name": "eight",
   "version": "1.0.0",
   "description": "Javascript Development Starter Kit",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techtolentino/apex-nova-starter-kit.git"
+    "url": "git+https://github.com/techtolentino/eight.git"
   },
   "author": "Randy Tolentino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techtolentino/apex-nova-starter-kit/issues"
+    "url": "https://github.com/techtolentino/eight/issues"
   },
-  "homepage": "https://github.com/techtolentino/apex-nova-starter-kit#readme",
+  "homepage": "https://github.com/techtolentino/eight#readme",
   "devDependencies": {
     "babel-cli": "6.16.0",
     "babel-core": "6.17.0",
