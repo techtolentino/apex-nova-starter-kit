@@ -1,4 +1,4 @@
-// inject stylesheet
+// inject assets
 import './main.css';
 
 const year = new Date().getFullYear();
