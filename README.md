@@ -1,5 +1,6 @@
-# Eight <img src="assets/img/eight-logo.png" width="32"/>
+# Eight <img src="assets/img/eight-logo.png" width="32"/> 
 
+[![Build Status](https://travis-ci.org/techtolentino/eight.svg?branch=master)](https://travis-ci.org/techtolentino/eight)
 
 Eight is a basic JavaScript dev environment. Built on Node and Express, Eight leverages ES6 by transpiling through Babel and also utilizes Webpack for bundling. It also includes linting via eslint, and testing using Mocha.
 
