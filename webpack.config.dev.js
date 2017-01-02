@@ -5,12 +5,12 @@ export default {
     devtool: 'inline-source-map',
     noInfo: false,
     entry: [
-        path.resolve(__dirname, 'src/index')
+        path.resolve(__dirname, 'src/scripts/index')
     ],
     target: 'web',
     output: {
         path: path.resolve(__dirname, 'src'),
-        publicPath: '/',
+        publicPath: '/scripts',
         filename: 'index.js'
     },
     plugins: [],

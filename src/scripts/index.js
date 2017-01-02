@@ -1,5 +1,5 @@
 // inject assets
-import './main.css';
+import '../styles/main.css';
 
 const year = new Date().getFullYear();
 
